@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 6f606862-6f42-418d-9e66-09e6c975d8d3
-  WEBAPP-NAME: WEBAPP-Namratha
+  WEBAPP-NAME: MyWebApp
 
 
 jobs:
